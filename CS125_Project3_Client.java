@@ -182,10 +182,6 @@ public class CS125_Project3_Client
 		} catch(FileNotFoundException e) { //If file is not found prints error
 			System.out.println("ERROR:" + fileName + " input file not found.");
 			e.printStackTrace();
-			//		} catch (Exception e) { //unknown error
-			//			System.out.println("ERROR: Unknown error occured while attempting to open and read from the file " + fileName);
-			//			
-			//			System.err.println("TODO 17 line 186");
 		} finally {
 			try {
 				if (fScan != null) fScan.close(); //checking if file has an input or not
