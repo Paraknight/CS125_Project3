@@ -1,2 +1,2 @@
 # CS125_Project3
-Hotel Reservation File I/O project from Introduction to Computer Science II course.
+Hotel Reservation File I/O project for Introduction to Computer Science II.
